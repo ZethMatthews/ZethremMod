@@ -1,0 +1,17 @@
+#Creative Tabs:
+itemGroup.tab_zethrem=Zeth's Mod
+
+#Items:
+item.jellopy.name=Jellopy
+item.sticky_mucus.name=Sticky Mucus
+item.empty_bottle.name=Empty Bottle
+item.butterfly_wing.name=Butterfly Wing
+item.acid_bottle.name=Acid Bottle
+item.adventurers_suit_0.name=Adventurer's Suit [0]
+item.adventurers_suit_1.name=Adventurer's Suit [1]
+
+#blocks:
+tile.wooden_crate.name=Wooden Storage Crate
+
+#containers:
+container.wooden_crate=Wooden Crate

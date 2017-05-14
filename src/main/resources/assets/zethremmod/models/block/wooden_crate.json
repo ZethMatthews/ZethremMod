@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zethremmod:blocks/block_wooden_crate"
+  }
+}

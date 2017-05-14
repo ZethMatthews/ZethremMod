@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zethremmod",
+  "name": "Zeth's Mod",
+  "description": "This is my first Minecraft mod. I'll add anything I think makes sense.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zethneralith"],
+  "credits": "The Forge and FML guys, for making Forge and FML. Seriously, that's some impressive stuff.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
