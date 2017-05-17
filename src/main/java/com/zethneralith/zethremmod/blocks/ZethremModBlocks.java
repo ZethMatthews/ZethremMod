@@ -15,10 +15,12 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ZethremModBlocks
 {
     public static BlockWoodenCrate block_wooden_crate;
+    public static BlockZethremFurnace zethrem_furnace;
 
     public static void preInit()
     {
         block_wooden_crate = new BlockWoodenCrate();
+        zethrem_furnace = new BlockZethremFurnace();
 
         registerBlocks();
     }
@@ -26,6 +28,7 @@ public class ZethremModBlocks
     public static void registerBlocks()
     {
         registerBlock(block_wooden_crate);
+        registerBlock(zethrem_furnace);
     }
 
     private static void registerBlock(Block block)
@@ -37,6 +40,7 @@ public class ZethremModBlocks
     public static void registerRenderers()
     {
         registerRenderer(block_wooden_crate);
+        registerRenderer(zethrem_furnace);
     }
 
     private static void registerRenderer(Block block)

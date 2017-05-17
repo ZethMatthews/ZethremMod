@@ -12,5 +12,6 @@ public class ZethremModTileEntities
     public static void init()
     {
         GameRegistry.registerTileEntity(TileEntityWoodenCrate.class, ZethremMod.MODID + "TileEntityWoodenCrate");
+        GameRegistry.registerTileEntity(TileZethremFurnace.class, ZethremMod.MODID + "TileZethremFurnace");
     }
 }

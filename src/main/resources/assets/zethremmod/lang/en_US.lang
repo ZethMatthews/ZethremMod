@@ -9,9 +9,16 @@ item.butterfly_wing.name=Butterfly Wing
 item.acid_bottle.name=Acid Bottle
 item.adventurers_suit_0.name=Adventurer's Suit [0]
 item.adventurers_suit_1.name=Adventurer's Suit [1]
+item.basic_screw.name=Basic Screws
+item.cogwheel.name=Cogwheel
+item.mech_gear.name=Mechanical Gear
 
 #blocks:
 tile.wooden_crate.name=Wooden Storage Crate
+item.wooden_crate.name=Wooden Storage Crate
+tile.zethrem_furnace.name=Experimental Furnace
+item.zethrem_furnace.name=Experimental Furnace
 
 #containers:
 container.wooden_crate=Wooden Crate
+container.zethrem_furnace=Experimental Furnace

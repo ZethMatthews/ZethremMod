@@ -3,6 +3,7 @@ package com.zethneralith.zethremmod.client.gui;
 import com.zethneralith.zethremmod.ZethremMod;
 import com.zethneralith.zethremmod.container.ContainerWoodenCrate;
 import com.zethneralith.zethremmod.tileentity.TileEntityWoodenCrate;
+import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.client.resources.I18n;
 import net.minecraft.inventory.IInventory;
@@ -25,7 +26,14 @@ public class GuiWoodenCrate extends GuiContainer
 
         this.tileEntity = tileEntity;
         this.playerInv = playerInv;
+
+
+        //GuiButton btnTest = new GuiButton(0, this.guiLeft, this.guiTop, 20, 20, "BUTTON!");
+        //btnTest.displayString = "BUTTON!";
+        //this.addButton(btnTest);
     }
+
+
 
     @Override
     protected void drawGuiContainerBackgroundLayer(float partialTicks, int mouseX, int mouseY)
